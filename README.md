@@ -19,7 +19,7 @@ A Streamlit-based application to automate the generation of SEO-optimized titles
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/podcast-seo-generator.git
+git clone https://github.com/pmuwimukthi/Bulk-SEO-Content-Generator.git
 cd podcast-seo-generator
 ```
 
