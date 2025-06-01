@@ -30,8 +30,8 @@ pip install -r requirements.txt
 ###3. Configure Environment
 Create .env file:
 ```bash
-echo "GROQ_API_KEY=your_groq_api_key" > .env
-echo "OPENAI_API_KEY=your_openai_api_key" >> .env
+GROQ_API_KEY="your_groq_api_key"
+OPENAI_API_KEY="your_openai_api_key"
 ```
 
 ### Configuration
