@@ -5,15 +5,14 @@ A Streamlit-based application to automate the generation of SEO-optimized titles
 ## Features
 - **Bulk Processing**: Handles up to 20 MP3 files in a single run  
 - **AI-Powered Transcription**: Uses Groq's Whisper model for audio transcription  
-- **SEO Optimization**: Generates SEO-friendly metadata using OpenAI's GPT-4  
+- **SEO Optimization**: Generates SEO-friendly metadata using OpenAI's GPT-4.1  
 - **User-Friendly Interface**: Simple Streamlit UI with clear input fields  
 - **Error Handling**: Gracefully skips missing files and handles API errors  
 
 ## Prerequisites
 - Python 3.9+  
 - [Groq API key](https://console.groq.com/)  
-- [OpenAI API key](https://platform.openai.com/)  
-- FFmpeg (for audio processing)  
+- [OpenAI API key](https://platform.openai.com/)   
 
 ## Installation
 
