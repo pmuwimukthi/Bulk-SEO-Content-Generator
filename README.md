@@ -85,9 +85,9 @@ MIT License - See LICENSE
 
 - OpenAI for GPT-4.1 integration
 
-### UI
-!(images/screenshot.png)
-
 - Streamlit for UI framework
 
 Note: Replace placeholder paths and API keys with your actual values before use. For optimal results, ensure audio files are clear and properly formatted (MP3 format, 16kHz+ sample rate).
+
+### UI
+![Screen shot](images/screenshot.png)
